@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Argentina",
+        "entrenador": "Lionel Scaloni",
+        "grupo": "Grupo A"
+    },
+    {
+        "nombre": "Brasil",
+        "entrenador": "Tite",
+        "grupo": "Grupo E"
+    },
+    {
+        "nombre": "Portugal",
+        "entrenador": "Fernando Santos",
+        "grupo": "Grupo G"
+    },
+    {
+        "nombre": "Bélgica",
+        "entrenador": "Roberto Martínez",
+        "grupo": "Grupo B"
+    },
+    {
+        "nombre": "Francia",
+        "entrenador": "Didier Deschamps",
+        "grupo": "Grupo D"
+    }
+]

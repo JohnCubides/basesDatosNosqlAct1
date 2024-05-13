@@ -1,0 +1,42 @@
+[
+    {
+        "encuentro_id": 1,
+        "equipo_local": "Argentina",
+        "equipo_visitante": "Brasil",
+        "resultado_local": 2,
+        "resultado_visitante": 1,
+        "ganador": "Argentina"
+    },
+    {
+        "encuentro_id": 2,
+        "equipo_local": "Portugal",
+        "equipo_visitante": "Francia",
+        "resultado_local": 1,
+        "resultado_visitante": 1,
+        "ganador": "Empate"
+    },
+    {
+        "encuentro_id": 3,
+        "equipo_local": "Bélgica",
+        "equipo_visitante": "Alemania",
+        "resultado_local": 3,
+        "resultado_visitante": 2,
+        "ganador": "Bélgica"
+    },
+    {
+        "encuentro_id": 4,
+        "equipo_local": "Brasil",
+        "equipo_visitante": "Argentina",
+        "resultado_local": 0,
+        "resultado_visitante": 2,
+        "ganador": "Argentina"
+    },
+    {
+        "encuentro_id": 5,
+        "equipo_local": "Francia",
+        "equipo_visitante": "Portugal",
+        "resultado_local": 2,
+        "resultado_visitante": 1,
+        "ganador": "Francia"
+    }
+]

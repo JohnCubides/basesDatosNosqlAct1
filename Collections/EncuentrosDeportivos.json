@@ -1,0 +1,37 @@
+[
+    {
+        "equipo_local": "Argentina",
+        "equipo_visitante": "Brasil",
+        "fecha": "2022-11-20",
+        "estadio": "Maracaná",
+        "arbitro_principal": "Howard Webb"
+    },
+    {
+        "equipo_local": "Portugal",
+        "equipo_visitante": "Francia",
+        "fecha": "2022-11-21",
+        "estadio": "Allianz Arena",
+        "arbitro_principal": "Nestor Pitana"
+    },
+    {
+        "equipo_local": "Bélgica",
+        "equipo_visitante": "Alemania",
+        "fecha": "2022-11-22",
+        "estadio": "Signal Iduna Park",
+        "arbitro_principal": "Felix Brych"
+    },
+    {
+        "equipo_local": "Brasil",
+        "equipo_visitante": "Argentina",
+        "fecha": "2022-11-23",
+        "estadio": "Estadio Nacional de Brasilia",
+        "arbitro_principal": "Cüneyt Çakır"
+    },
+    {
+        "equipo_local": "Francia",
+        "equipo_visitante": "Portugal",
+        "fecha": "2022-11-24",
+        "estadio": "Stade de France",
+        "arbitro_principal": "Björn Kuipers"
+    }
+]

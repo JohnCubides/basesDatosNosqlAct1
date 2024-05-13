@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Lionel Messi",
+        "posicion": "Delantero",
+        "edad": 34,
+        "equipo": "Argentina"
+    },
+    {
+        "nombre": "Cristiano Ronaldo",
+        "posicion": "Delantero",
+        "edad": 36,
+        "equipo": "Portugal"
+    },
+    {
+        "nombre": "Neymar Jr",
+        "posicion": "Delantero",
+        "edad": 29,
+        "equipo": "Brasil"
+    },
+    {
+        "nombre": "Robert Lewandowski",
+        "posicion": "Delantero",
+        "edad": 33,
+        "equipo": "Polonia"
+    },
+    {
+        "nombre": "Kevin De Bruyne",
+        "posicion": "Centrocampista",
+        "edad": 30,
+        "equipo": "Bélgica"
+    }
+]
